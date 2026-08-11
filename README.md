@@ -11,7 +11,7 @@ Lara Chiorato Nicoletti
 # Nome do filme:
 Orgulho e preconceito.
 
-# Tecnologias utilizadas:
+# 💻​ Tecnologias utilizadas:
 Vscode, HTML.
 
 # Sobre a atividade
