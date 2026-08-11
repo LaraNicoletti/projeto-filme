@@ -11,4 +11,4 @@ Lara Chiorato Nicoletti
 11 de agosto de 2026.
 
 # Sobre a atividade
-Este repositório contém a entrega da atividade de Linguagem de Marcação apresentada pelos professores Raul Porto Lopes e André Luiz Denani.
+Este repositório contém a entrega da atividade de Linguagem de Marcação apresentada pelos professores Raul Porto Lopes e André Luiz Denani. Possi o o objetivo de por a prova os conhecimentos adquiridos sobre HTML fazendo um site informativo sobre um filme escolhido.
